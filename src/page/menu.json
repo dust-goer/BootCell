@@ -1,0 +1,61 @@
+[
+    {
+        "list": [
+            {
+                "title": "Dashboard",
+                "href": "admin/dashboard",
+                "icon": "house"
+            },
+            {
+                "title": "Downloader",
+                "href": "admin/downloader",
+                "icon": "file-earmark"
+            },
+            {
+                "title": "Products",
+                "href": "admin/product",
+                "icon": "cart"
+            },
+            {
+                "title": "Customers",
+                "href": "admin/customer",
+                "icon": "people"
+            },
+            {
+                "title": "Reports",
+                "href": "admin/report",
+                "icon": "bar-chart"
+            },
+            {
+                "title": "Integrations",
+                "href": "admin/integration",
+                "icon": "stack"
+            }
+        ]
+    },
+    {
+        "title": "Saved Reports",
+        "list": [
+            {
+                "title": "Current month",
+                "href": "admin/report?filter=month",
+                "icon": "file-earmark-text"
+            },
+            {
+                "title": "Last quarter",
+                "href": "admin/report?filter=quarter",
+                "icon": "file-earmark-text"
+            },
+            {
+                "title": "Social engagement",
+                "href": "admin/report?filter=social",
+                "icon": "file-earmark-text"
+            },
+            {
+                "title": "Year-end sale",
+                "href": "admin/report?filter=year",
+                "icon": "file-earmark-text"
+            }
+        ]
+    }
+]

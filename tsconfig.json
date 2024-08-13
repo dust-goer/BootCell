@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "useDefineForClassFields": true,
+        "allowJs": true,
+        "sourceMap": true,
+        "jsx": "react-jsx",
+        "jsxImportSource": "dom-renderer",
+        "lib": ["ES6", "DOM"],
+        "rootDir": "src"
+    },
+    "include": ["src/**/*"]
+}
